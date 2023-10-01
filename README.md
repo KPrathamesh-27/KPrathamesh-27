@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kprathamesh-27&label=Profile%20views&color=0e75b6&style=flat" alt="kprathamesh-27" /> </p>
 
-- 🌱 I’m currently learning **next.js, vue.js**
+- 🌱 I’m currently learning **next.js**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
